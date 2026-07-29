@@ -1,0 +1,9 @@
+ROOT0-DLW-CHAIN-v1
+index : 1991
+slug  : the-union-find
+seal  : 9416a504e74dc4e28c996f7bc32d999ff947433e99dc153480ff76c8940d3507
+prev  : 9aa88f2ff3e9f066c1a9b7ec67541ae822408b8b91bc5f1aa04489d26e17e22e
+link  : 1da550a7451f938e2cb9486b6a4fa2a6ac7ea7900c3cc82c75b31b6480115c6c
+head  : 7252de97041a5fbd8fa92b0e54354d07ec04649e31840387815864af7776fc19
+
+— the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
